@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Aarambha Sanskar Vidyalaya</title>
+  </head>
+  <body bgcolor="#f5e6cc">
+    <center>
+      <h1>
+        <img src="logo1-removebg-preview.png" height="80" width="100">
+        <br>
+        <font face="Georgia" color="#ff8700">
+          <b>AARAMBHA</b>
+          <br>
+          <b><font size="4">SANSKAR VIDYALAYA</b></font>
+        </font>
+        <br>
+        <font face="Georgia, serif" size="3">~ Sanskar Meets Education ~</font>
+      </h1>
+    </center>
+    <br>
+    <p>
+      <font face="Georgia, serif" size="6" color="gray">Introduction</font>
+    </p>
+    <p>
+      <font face="serif" size="4">Aarambha Sanskar Vidyalaya is a premier educational institution dedicated to nurturing young minds with a strong foundation of values and knowledge.<br>At Aarambha, we believe in holistic development — combining academic excellence with cultural heritage and character building.</font>
+    </p>
+  </body>
+</html>
