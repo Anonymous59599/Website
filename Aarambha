@@ -15,13 +15,14 @@
         <br>
         <font face="Georgia, serif" size="3">~ Sanskar Meets Education ~</font>
       </h1>
-    </center>
-    <br>
+    <br><br><br>
     <p>
       <font face="Georgia, serif" size="6" color="gray">Introduction</font>
     </p>
     <p>
       <font face="serif" size="4">Aarambha Sanskar Vidyalaya is a premier educational institution dedicated to nurturing young minds with a strong foundation of values and knowledge.<br>At Aarambha, we believe in holistic development — combining academic excellence with cultural heritage and character building.</font>
     </p>
+    <img src="background.png" height="500">
+    </center>
   </body>
 </html>
