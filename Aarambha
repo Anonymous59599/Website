@@ -15,7 +15,8 @@
         <br>
         <font face="Georgia, serif" size="3">~ Sanskar Meets Education ~</font>
       </h1>
-    <br><br><br>
+      <hr width="60%">
+    <br>
     <p>
       <font face="Georgia, serif" size="6" color="gray">Introduction</font>
     </p>
@@ -23,6 +24,13 @@
       <font face="serif" size="4">Aarambha Sanskar Vidyalaya is a premier educational institution dedicated to nurturing young minds with a strong foundation of values and knowledge.<br>At Aarambha, we believe in holistic development — combining academic excellence with cultural heritage and character building.</font>
     </p>
     <img src="background.png" height="500">
+    <br><br>
+    <hr width="60%">
+    <footer>
+    <p>
+      <font face="Georgia, serif" size="4">Galkopakha Marg, Kathmandu<br>aarambhasanskar@gmail.com</font>
+    </p>
+    </footer>
     </center>
   </body>
 </html>
